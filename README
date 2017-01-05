@@ -1,0 +1,7 @@
+this is laravel project
+
+1.composer update
+
+2.sudo chmod 777 -R storage/
+
+
